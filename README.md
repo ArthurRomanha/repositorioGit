@@ -2,5 +2,5 @@
 >Status do aprendizado: Iniciante
 
 ```
-install node.js
+install git
 ```
